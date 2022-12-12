@@ -36,6 +36,6 @@ Used NMAP to:
 - Virus Scanning/HIPS
 - PED Management
 - Executable Content Restrictions
-## Milestone 8: Document Your Network
+## Milestone 8: Documenting My Network
  - Finalized my documentation for the network
  - Began to implement my plan of action 
