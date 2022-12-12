@@ -2,6 +2,8 @@
 
 <p> This project is used to apply the security techniques I have learned from my classes to a real world environment. I applied  security principles and practices to maintain system operations in the presence of attacks or threats from a network by completing this project report. The guidelines for the plan are published by the National Security Agency, Information Assurance Directorate. 
 
+A guide to generating this technical report can be found on the [NSA](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2949885/nsa-details-network-infrastructure-best-practices/) website. 
+
 In this project, I implemented 8 milestones and a network security plan. The milestones are divided into the following:
 </p>
 
