@@ -43,3 +43,4 @@ Used NMAP to:
  - Began to implement my plan of action 
  
  # Try It Yourself!
+ I really recommend you trying this yourself on your own network using my milestones and following the [NSA guidelines shown here](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2949885/nsa-details-network-infrastructure-best-practices/). 
